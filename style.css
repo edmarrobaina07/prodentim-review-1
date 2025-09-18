@@ -210,15 +210,6 @@ h1, h2, h3 {
     position: relative;
 }
 
-.testimonial-text::before {
-    content: "“";
-    font-size: 3rem;
-    position: absolute;
-    top: -10px;
-    left: -15px;
-    color: var(--color-accent);
-}
-
 .testimonial-author {
     font-weight: bold;
     color: var(--color-primary);
